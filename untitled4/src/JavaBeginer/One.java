@@ -8,7 +8,7 @@ public class One {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JavaBeginer.Graph a = new JavaBeginer.Graph();
         frame.add(a);
-        frame.setSize(600, 400);
+        frame.setSize(600+20, 600+40);
         frame.setVisible(true);
 
 
